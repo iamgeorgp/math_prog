@@ -45,4 +45,3 @@ def graphic_mat():
 
     plt.show()
 
-graphic_plotly()
