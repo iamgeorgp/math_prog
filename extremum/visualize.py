@@ -44,4 +44,3 @@ def graphic_mat():
     ax.set_zlabel('f(x1, x2, x3)')
 
     plt.show()
-
