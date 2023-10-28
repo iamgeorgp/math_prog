@@ -1,4 +1,6 @@
+![MP](https://github.com/iamgeorgp/math_prog/assets/128215564/6cd15fe6-e5ab-4155-b24d-8f6cf3678597)
 # Mathematical programming and optimization methods
+
 
 ## [EXTREMUM](https://github.com/iamgeorgp/math_prog/tree/main/extremum)
 This folder contains implementations of different methods for finding extrema in mathematical functions. Each method has its own strengths and may be suitable for different types of optimization problems.
